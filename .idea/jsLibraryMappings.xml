@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/myTestNode" libraries="{myTestProject/myTestNode/node_modules}" />
+    <file url="file://$PROJECT_DIR$/myTestVue" libraries="{myTestProject/myTestVue/node_modules}" />
+    <file url="PROJECT" libraries="{myTestProject/myTestNode/node_modules, myTestProject/myTestVue/node_modules}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
